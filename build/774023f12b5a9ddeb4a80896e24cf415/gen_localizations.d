@@ -1,0 +1,1 @@
+ /home/felps/development/learn/felipeanndrade/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/felps/development/learn/felipeanndrade/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/felps/development/learn/felipeanndrade/l10n.yaml /home/felps/development/learn/felipeanndrade/lib/src/localization/app_en.arb
